@@ -56,10 +56,6 @@ ORDER BY AccountNumber;
 - ORDER BY for clean output
 - CTE alternative version included for readability
 
----
 
-## Connect with Me
 
-- LinkedIn: [linkedin.com/in/saranya-cj](https://www.linkedin.com/in/saranya-cj)
-- GitHub: [github.com/Saranya-1994](https://github.com/Saranya-1994)
-- Email: saranyasharu03@gmail.com
+-
